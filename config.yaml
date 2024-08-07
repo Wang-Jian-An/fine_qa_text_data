@@ -1,0 +1,2 @@
+device: 'cuda:1'
+pretrained_model_path: '/mnt/data'
